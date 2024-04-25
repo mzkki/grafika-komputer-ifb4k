@@ -13,7 +13,7 @@ import javax.swing.JFrame;
 public class TampilWarna {
     public static void main(String[] args)
     {
-        JFrame frame = new JFrame("Menggunakan Warna");
+        JFrame frame = new JFrame("Latihan 1 2211068 Haris Muzakki");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
         WarnaJPanel warnaJPanel = new WarnaJPanel();
