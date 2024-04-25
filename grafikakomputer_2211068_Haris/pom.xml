@@ -9,6 +9,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-        <exec.mainClass>latihan1_RGB_harisifb4k.Grafikakomputer_2211068_Haris</exec.mainClass>
+        <exec.mainClass>latihan1_RGB_harisifb4k.TampilWarna</exec.mainClass>
     </properties>
 </project>
