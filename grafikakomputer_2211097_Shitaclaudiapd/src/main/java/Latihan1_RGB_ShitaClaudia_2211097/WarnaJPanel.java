@@ -12,13 +12,11 @@ public class WarnaJPanel extends JPanel{
     public void paintComponent(Graphics g)
     {
         super.paintComponent(g);
-        
         this.setBackground(Color.WHITE);
         
         g.setColor(new Color(250,120,50));
         g.fillRect(15,25,100,20);
         g.drawString("RGB Sekarang: " + g.getColor(), 130, 40);
-        
         
         g.setColor(new Color(75,100,150 ));
         g.fillRect(15,50,100,20);
