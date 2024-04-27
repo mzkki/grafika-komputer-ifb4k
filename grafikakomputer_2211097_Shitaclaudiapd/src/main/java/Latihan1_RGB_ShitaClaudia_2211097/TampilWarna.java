@@ -6,10 +6,6 @@ package Latihan1_RGB_ShitaClaudia_2211097;
 
 import javax.swing.JFrame;
 
-/**
- *
- * @author mzkki
- */
 public class TampilWarna {
     public static void main(String[] args)
     {
