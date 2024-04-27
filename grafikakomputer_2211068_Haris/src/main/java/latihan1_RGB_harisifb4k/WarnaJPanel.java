@@ -23,7 +23,7 @@ public class WarnaJPanel extends JPanel{
         g.drawString("RGB Sekarang: " + g.getColor(), 130, 40);
         
         
-        g.setColor(new Color(0.75f, 0.75f, 1.0f));
+        g.setColor(new Color(225,125,75 ));
         g.fillRect(15,50,100,20);
         g.drawString("RGB Sekarang: " + g.getColor(), 130, 65);
         
